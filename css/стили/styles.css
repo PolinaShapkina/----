@@ -1,0 +1,17 @@
+h1, h2{
+    color: rgb(255, 0, 144);
+}
+p{
+    color: rgb(52, 207, 207);
+    font-size: 1.1rem;
+}
+#lorem{
+    background: rgb(122, 233, 142);
+}
+.one{
+    color: rgb(255, 0, 230);
+}
+.two{
+    color: rgb(229, 213, 255);
+    background: rgb(183, 19, 19);
+}

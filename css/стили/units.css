@@ -1,0 +1,52 @@
+h1{
+    font-size: 60px;
+    width: 200px;
+    background-color: rgb(226, 55, 43);
+    height: 300px;
+}
+.inner{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}
+.outer{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+}
+.relative{
+    font-size: 2rem;
+}
+.absolute{
+    font-size: 32px;
+}
+div{
+    font-size: 40px;
+}
+* {
+    margin: 0;
+}
+.banner{
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(255, 80, 103);
+}
+.header{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(47, 51, 107);
+}
+h2{
+    color: rgb(42, 140, 165);
+    font-size: 60px;
+}
+.navbar{
+    background-color: rgb(175, 125, 105);
+    height: 100px;
+    color: rgb(255, 240, 240);
+    font-size: 3rem;
+}
+.ban{
+    background-color: rgba(255, 140, 0, 0.726);
+    min-height: calc(100vh - 100px);
+}

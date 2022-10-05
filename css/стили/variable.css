@@ -1,0 +1,29 @@
+:root{
+    --primaryColor: #13fa6c;
+    --secondaryColor: #d2f125;
+    --mainTransition: all 0.4s linear;
+}
+.heading{
+    color: var(--primaryColor);
+}
+.second-heading{
+    color: var(--primaryColor);
+    transition: var(--mainTransition);
+}
+.second-heading:hover{
+    color: var(--secondaryColor);
+}
+div{
+    --primaryRed: rgb(47, 0, 255);
+}
+.main-text{
+    color: var(--primaryRed);
+}
+.third-heading{
+    color: var(--primaryRed);
+        transition: var(--mainTransition);
+}
+.third-heading:hover{
+    color: rgb(128, 0, 53);
+margin-left: 50px;
+}
